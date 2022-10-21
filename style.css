@@ -1,0 +1,38 @@
+.third{
+  background-image: url(image/Rectangle(5).png); 
+  padding-top: 120px; 
+  padding-bottom: 145px; 
+  background: url(../img/Rectangle.png) no-repeat center center/ cover; 
+} 
+
+.third__wrap{ 
+} 
+
+.third__info{} 
+
+.third__title{ 
+  font-weight: 400; 
+  font-size: 48px; 
+  line-height: 56px;    
+} 
+
+.third__text{ 
+  font-weight: 400; 
+  font-size: 24px; 
+  line-height: 28px; 
+  padding: 40px 0 40px 0; 
+  max-width: 550px; 
+} 
+
+.third__buttons{ 
+  display: flex; 
+} 
+
+.third__button{ 
+  padding: 20px 50px; 
+} 
+
+.third__button:not(:last-of-type){ 
+  margin-right: 40px; 
+}
+ 
